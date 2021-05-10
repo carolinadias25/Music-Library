@@ -1,10 +1,10 @@
-# MySQL Music Library API
+# MySQL Music Library
 
-This repository contains the integration test suite for Music Library API challenge.
+This repository contains the integration test suite for Music Library challenge.
 
 ### Install
 - Fork this repository
-- `git clone git@github.com:<your-github-username>/music-library-api-mysql.git`
+- `git clone git@github.com:<your-github-username>/Music-Library.git`
 - `npm install`
 
 ### Running the Tests
