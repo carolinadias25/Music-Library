@@ -51,7 +51,7 @@ web_modules/
 .npm
 
 .env
-
+.env.test/
 # Optional eslint cache
 .eslintcache
 

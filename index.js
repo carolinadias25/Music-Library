@@ -1,3 +1,4 @@
+/* eslint-disable no-undef */
 const app = require('./src/app.js');
 
 // eslint-disable-next-line no-undef
