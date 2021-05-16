@@ -1,15 +1,14 @@
 # MySQL Music Library
 
-This repository contains the integration test suite for Music Library challenge.
+This repository contains a Music Library app.
 
 ### Install
-- Fork this repository
-<<<<<<< HEAD
-- `git clone git@github.com:<your-github-username>/music-library.git`
-=======
-- `git clone git@github.com:<your-github-username>/Music-Library.git`
->>>>>>> f67ffe557082428e9b0f1a50c22e385393bd12b3
-- `npm install`
+- Fork this repository    
+
+    $ git clone https://github.com/carolinadias25/Music-Library.git
+    $ cd Music-Library
+    $ npm install
+
 
 ### Running the Tests
 This setup assumes that you are running `MySql` on in Docker.
