@@ -4,7 +4,11 @@ This repository contains the integration test suite for Music Library challenge.
 
 ### Install
 - Fork this repository
+<<<<<<< HEAD
 - `git clone git@github.com:<your-github-username>/music-library.git`
+=======
+- `git clone git@github.com:<your-github-username>/Music-Library.git`
+>>>>>>> f67ffe557082428e9b0f1a50c22e385393bd12b3
 - `npm install`
 
 ### Running the Tests
