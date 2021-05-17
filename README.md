@@ -5,10 +5,13 @@ This repository contains a Music Library app.
 ### Install
 - Fork this repository    
 
-    $ git clone https://github.com/carolinadias25/Music-Library.git
-    $ cd Music-Library
-    $ npm install
-
+```
+    git clone https://github.com/carolinadias25/Music-Library.git
+    
+    cd Music-Library
+    
+    npm install
+```
 
 ### Running the Tests
 This setup assumes that you are running `MySql` on in Docker.
