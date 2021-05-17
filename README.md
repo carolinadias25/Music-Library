@@ -6,7 +6,7 @@ This repository contains a Music Library app.
 - Fork this repository    
 
 ```
-    git clone https://github.com/carolinadias25/Music-Library.git
+    git clone https://github.com/carolinadias25/music-library.git
     
     cd Music-Library
     
